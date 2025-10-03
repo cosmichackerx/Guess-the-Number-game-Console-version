@@ -162,7 +162,7 @@ Thanks for playing! Come back when you're ready to be roasted again 😏
 
 ## 📂 Project Structure
 ```
-GuessTheNumber.java   # Main game source file
+Main.java   # Main game source file
 README.md             # Documentation
 ```
 
