@@ -89,7 +89,6 @@ public class Main {
 }
 ```
 ---
-Here’s a polished **`README.md`** you can drop alongside your `GuessTheNumber.java` file. It explains the game, how to run it, and what features it has — in a clean, professional style but still keeping the fun tone of your code.  
 
 ---
 
